@@ -15,6 +15,7 @@ authors:
 keywords: "over-the-counter, liquidity, learning by holding, opaqueness"
 venue: "Working Paper"
 paperurl: 'https://gstoledo.github.io/docs/LMT_Opaqueness.pdf'
+slidesurl:'https://gstoledo.github.io/docs/LMT_slides.pdf'
 ---
 
 
