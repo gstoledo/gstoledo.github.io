@@ -64,8 +64,7 @@
    
     {% if post.paperurl %}
       <p><a href=" {{ post.paperurl }} "><button class="btn"><i class="fa fa-download"></i> Paper</button></a></p>
-    {% endif %}
-    {% if post.slidesurl %}
+    {% endif %} {% if post.slidesurl %}
       <p><a href=" {{ post.slidesurl }} "><button class="btn"><i class="fa fa-download"></i> Slides</button></a></p>
     {% endif %}
   </article>
