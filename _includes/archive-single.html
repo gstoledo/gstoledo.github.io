@@ -62,10 +62,11 @@
       <p>Recommended citation: {{ post.citation }} </p>
     {% endif %}
    
-    {% if post.paperurl %}
-      <p><a href=" {{ post.paperurl }} "><button class="btn"><i class="fa fa-download"></i> Paper</button></a></p>
-    {% endif %} {% if post.slidesurl %}
-      <p><a href=" {{ post.slidesurl }} "><button class="btn"><i class="fa fa-download"></i> Slides</button></a></p>
-    {% endif %}
+   {% if post.paperurl %}
+      <p style="display: inline-block;"><a href="{{ post.paperurl }}"><button class="btn"><i class="fa fa-download"></i> Paper</button></a></p>
+   {% endif %}
+   {% if post.slidesurl %}
+     <p style="display: inline-block;"><a href="{{ post.slidesurl }}"><button class="btn"><i class="fa fa-download"></i> Slides</button></a></p>
+   {% endif %}
   </article>
 </div>
