@@ -47,7 +47,7 @@ layout: default
                   {% endif %}
                 {% else %}
                   {% if author.url %}
-                  <a href = "{{ author.url }}"" style = "font-weight: normal; color: black">{{ author.firstname }}, {{ author.lastname }},</a>
+                  <a href = "{{ author.url }}"" style = "font-weight: normal; color: black">{{ author.firstname }} {{ author.lastname }},</a>
                   {% else %}
                   {{ author.firstname }} {{ author.lastname }};
                   {% endif %}
