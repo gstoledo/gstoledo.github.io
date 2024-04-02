@@ -43,10 +43,14 @@
 {% elsif post.collection == 'publications' or post.collection == 'research'%}
   <p>
     {% if post.authors %}
-      {% for author in post.authors %}
-        {{ author.firstname }} {{ author.lastname }};
-      {% endfor %}
+  {% for author in post.authors %}
+    {% if author.url %}
+      <a href="{{ author.url }}">{{ author.firstname }} {{ author.lastname }}</a>;
+    {% else %}
+      {{ author.firstname }} {{ author.lastname }};
     {% endif %}
+  {% endfor %}
+{% endif %}
     <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}
     {% if post.paperurl %}
       <a href="{{ post.paperurl }}" style="color: $primary-color; text-decoration: underline; font-style: italic; margin-right: 1px; font-size: 0.9em;">[paper]</a>
