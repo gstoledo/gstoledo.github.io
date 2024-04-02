@@ -2,7 +2,7 @@
 title: "Opaqueness and Liquidity in Over-the-Counter
 Markets"
 collection: publications
-permalink: /publication/Opaquenes-Liquidit-OTC
+#permalink: /publication/Opaquenes-Liquidit-OTC
 date: 2023-5-29
 authors:
   - firstname: "Gabriel"
