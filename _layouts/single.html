@@ -76,12 +76,12 @@ layout: default
        {% if page.keywords %}
         <p>Keywords: <i>{{ page.keywords }}</i></p>
         {% endif %}                                                                                                                                     
-{% if post.paperurl %}
-  <p style="display: inline-block; margin-right: 10px;"><a href="{{ post.paperurl }}"><button class="btn"><i class="fa fa-download"></i> Paper</button></a></p>
-{% endif %}
-{% if post.slidesurl %}
-  <p style="display: inline-block;"><a href="{{ post.slidesurl }}"><button class="btn"><i class="fa fa-download"></i> Slides</button></a></p>
-{% endif %}
+      {% if post.paperurl %}
+         <p style="display: inline-block; margin-right: 10px;"><a href="{{ post.paperurl }}"><button class="btn"><i class="fa fa-download"></i> Paper</button></a></p>
+      {% endif %}
+      {% if post.slidesurl %}
+        <p style="display: inline-block;"><a href="{{ post.slidesurl }}"><button class="btn"><i class="fa fa-download"></i> Slides</button></a></p>
+      {% endif %}
       </section>
 
       <footer class="page__meta">
