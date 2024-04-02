@@ -49,10 +49,10 @@
     {% endif %}
     <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}
     {% if post.paperurl %}
-      <a href="{{ post.paperurl }}" style="color: $primary-color; text-decoration: underline; font-style: italic; margin-right: 2px;">[paper]</a>
+      <a href="{{ post.paperurl }}" style="color: $primary-color; text-decoration: underline; font-style: italic; margin-right: 2px; font-size: 0.9em;">[paper]</a>
     {% endif %}
     {% if post.slidesurl %}
-      <a href="{{ post.slidesurl }}" style="color: $primary-color; text-decoration: underline; font-style: italic;">[slides]</a>
+      <a href="{{ post.slidesurl }}" style="color: $primary-color; text-decoration: underline; font-style: italic; font-size: 0.9em;">[slides]</a>
     {% endif %}
   </p>
 {% elsif post.date %}
