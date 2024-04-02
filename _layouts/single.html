@@ -43,13 +43,13 @@ layout: default
               {% for author in page.authors %}
                 {% if author.firstname == site.author.firstname %}
                   {% if author.lastname == site.author.lastname %}
-                  <a href = "{{ base_path }}" style = "font-weight: normal; text-decoration: none"><b> {{ author.lastname }}, {{ author.firstname }}</b>;</a>
+                  <a href = "{{ base_path }}" style = "font-weight: normal; text-decoration: none"><b> {{ author.firstname }} {{ author.lastname }}</b>,</a>
                   {% endif %}
                 {% else %}
                   {% if author.url %}
-                  <a href = "{{ author.url }}"" style = "font-weight: normal; color: black">{{ author.lastname }}, {{ author.firstname }};</a>
+                  <a href = "{{ author.url }}"" style = "font-weight: normal; color: black">{{ author.firstname }}, {{ author.lastname }},</a>
                   {% else %}
-                  {{ author.lastname }}, {{ author.firstname }};
+                  {{ author.firstname }} {{ author.lastname }};
                   {% endif %}
                 {% endif %}
               {% endfor %}
@@ -76,9 +76,12 @@ layout: default
        {% if page.keywords %}
         <p>Keywords: <i>{{ page.keywords }}</i></p>
         {% endif %}                                                                                                                                     
-        {% if page.paperurl %}
-          <p><a href=" {{ page.paperurl }} "><button class="btn"><i class="fa fa-download"></i> Download</button></a></p>
-        {% endif %}
+{% if post.paperurl %}
+  <p style="display: inline-block; margin-right: 10px;"><a href="{{ post.paperurl }}"><button class="btn"><i class="fa fa-download"></i> Paper</button></a></p>
+{% endif %}
+{% if post.slidesurl %}
+  <p style="display: inline-block;"><a href="{{ post.slidesurl }}"><button class="btn"><i class="fa fa-download"></i> Slides</button></a></p>
+{% endif %}
       </section>
 
       <footer class="page__meta">
