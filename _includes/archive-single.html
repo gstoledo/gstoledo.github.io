@@ -49,10 +49,10 @@
     {% endif %}
     <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}
     {% if post.paperurl %}
-      <a href="{{ post.paperurl }}"><button class="btn"> Paper</button></a>
+      <a href="{{ post.paperurl }}" style="color: #007bff; text-decoration: underline; margin-right: 10px;">Paper</a>
     {% endif %}
     {% if post.slidesurl %}
-      <a href="{{ post.slidesurl }}"><button class="btn">Slides</button></a>
+      <a href="{{ post.slidesurl }}" style="color: #007bff; text-decoration: underline;">Slides</a>
     {% endif %}
   </p>
 {% elsif post.date %}
@@ -64,7 +64,7 @@
 {% elsif post.excerpt and site.read_more == 'enabled' %}
   <p class="archive__item-excerpt" itemprop="description">
     {{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}
-    <strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong>
+    <strong><a href="{{ base_path }}{{ post.url }}" rel="permalink" style="color: #007bff; text-decoration: underline;"> Read more</a></strong>
   </p>
 {% endif %}
 
