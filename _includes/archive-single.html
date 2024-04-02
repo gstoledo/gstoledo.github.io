@@ -42,12 +42,16 @@
   <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
 {% elsif post.collection == 'publications' or post.collection == 'research'%}
   <p>
-    {% if post.authors %}
+  {% if post.authors %}
   {% for author in post.authors %}
+    {% if author.lastname == site.author.lastname %}
+                  {{ author.firstname }} {{ author.lastname }},
+    {% endif %}
+     {% else %}
     {% if author.url %}
-      <a href="{{ author.url }}">{{ author.firstname }} {{ author.lastname }}</a>;
+      <a href="{{ author.url }}" style="color: inherit; text-decoration: underline;">{{ author.firstname }} {{ author.lastname }}</a>, 
     {% else %}
-      {{ author.firstname }} {{ author.lastname }};
+      {{ author.firstname }} {{ author.lastname }}, 
     {% endif %}
   {% endfor %}
 {% endif %}
