@@ -49,7 +49,7 @@ layout: default
                   {% if author.url %}
                   <a href = "{{ author.url }}"" style = "font-weight: normal; color: black">{{ author.firstname }} {{ author.lastname }},</a>
                   {% else %}
-                  {{ author.firstname }} {{ author.lastname }};
+                  {{ author.firstname }} {{ author.lastname }},
                   {% endif %}
                 {% endif %}
               {% endfor %}
