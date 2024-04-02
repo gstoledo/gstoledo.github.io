@@ -10,11 +10,13 @@ authors:
     url: "https://gstoledo.github.io/"
   - firstname: "Fernando"
     lastname: "Lopes"
+    url: "https://sites.google.com/view/fernandolopes"
   - firstname: "Angelo"
     lastname: "Mendes"
 keywords: "over-the-counter, liquidity, learning by holding, opaqueness"
 venue: "Working Paper"
 paperurl: 'https://gstoledo.github.io/docs/LMT_Opaqueness.pdf'
+slidesurl: 'https://gstoledo.github.io/docs/LMT_slides.pdf'
 ---
 
 
