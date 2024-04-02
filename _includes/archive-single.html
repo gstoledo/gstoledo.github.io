@@ -44,10 +44,6 @@
   <p>
   {% if post.authors %}
   {% for author in post.authors %}
-    {% if author.lastname == site.author.lastname %}
-                  {{ author.firstname }} {{ author.lastname }},
-    {% endif %}
-     {% else %}
     {% if author.url %}
       <a href="{{ author.url }}" style="color: inherit; text-decoration: underline;">{{ author.firstname }} {{ author.lastname }}</a>, 
     {% else %}
