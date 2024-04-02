@@ -3,7 +3,7 @@ title: "Opaqueness and Liquidity in Over-the-Counter
 Markets"
 collection: research
 #permalink: /research/Opaquenes-Liquidit-OTC
-date: 2023-5-29
+date: 2024-4-2
 authors:
   - firstname: "Gabriel"
     lastname: "Toledo"
