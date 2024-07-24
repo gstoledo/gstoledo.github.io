@@ -11,6 +11,7 @@ redirect_from:
 
 **Download CV [here](https://gstoledo.github.io/docs/Cv_GT.pdf)**
 
+ <!--
 Education
 ======
 * Ph.D in Economics, New York University, 2025 (expected)
@@ -24,3 +25,4 @@ Computer Skills
 <img align="center" alt="R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-plain.svg">
 <img align="center" alt="Latex" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg">
 </div>
+ -->
