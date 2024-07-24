@@ -17,7 +17,8 @@ Education
 * Ph.D in Economics, New York University, 2025 (expected)
 * M.S. in Economics, Getulio Vargas Foundation, 2018
 * B.A. in Economics, University of São Paulo, 2016
-
+ -->
+<!--
 Computer Skills
 ======
 <div>
