@@ -8,9 +8,7 @@ authors:
   - firstname: "Gabriel"
     lastname: "Toledo"
 keywords: 
-venue: "Coming Soon!"
-paperurl:
-slidesurl: 
+venue: "Coming Soon!" 
 ---
 
 
