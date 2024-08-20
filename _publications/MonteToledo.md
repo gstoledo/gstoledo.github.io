@@ -13,7 +13,7 @@ authors:
 keywords: "intergenerational communication; conflicts; dynamic information design"
 venue: "Working Paper"
 paperurl: 'https://gstoledo.github.io/docs/MonteToledo.pdf'
-#lidesurl: 'https://gstoledo.github.io/docs/LMT_slides.pdf'
+slidesurl: 'https://gstoledo.github.io/docs/LMT_slides.pdf'
 ---
 
 
