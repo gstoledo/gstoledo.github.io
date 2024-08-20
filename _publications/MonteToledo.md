@@ -2,7 +2,7 @@
 title: "Shaping the Truth: History Distortion Post-Conflict"
 collection: research
 #permalink: /research/Shaping the Truth: History Distortion Post-Conflict
-date: 2024-04-02
+date: 2024-04-01
 authors:
   - firstname: "Gabriel"
     lastname: "Toledo"

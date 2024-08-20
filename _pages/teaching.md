@@ -11,23 +11,24 @@ Courses that I served as a Teaching Assistant since I joined NYU.
 
 # Undergraduate Courses
 
-## ECON-UA 11 Microeconomic Analysis
-Prof. Ennio Stachetti
+## ECON-UB 2 Microeconomics with Calculus (Stern)
+Prof. Simon Bowmaker 
 
-Fall 2021
+Summer 2023,2024
+
+## ECON-UA 10 Intermediate Microeconomics
+Prof. Basil Williams
+Prof. Viplav Saini
+
+Spring 2022, Fall 2022, Spring 2023, Fall 2023, Spring 2024
 
 ## ECON-UA 316 Industrial Organization
 Prof. Viplav Saini
 
 Spring 2022
 
-## ECON-UA 10 Intermediate Microeconomics
-Prof. Basil Williams
-Prof. Viplav Saini
+## ECON-UA 11 Microeconomic Analysis
+Prof. Ennio Stachetti
 
-Spring 2022, Fall 2022, Spring 2023, Fall 2023
+Fall 2021
 
-## ECON-UB 2 Microeconomics with Calculus (Stern)
-Prof. Simon Bowmaker 
-
-Summer 2023
