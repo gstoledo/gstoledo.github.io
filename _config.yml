@@ -192,6 +192,9 @@ collections:
   datasets:
     output: true
     permalink: /:collection/:path/
+  jmp:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
