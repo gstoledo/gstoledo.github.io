@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 6th year Economics Ph.D. student at [New York University](https://as.nyu.edu/departments/econ/faculty/doctoral-students.html). 
+I am a PhD. candidate in Economics at [New York University](https://as.nyu.edu/departments/econ/faculty/doctoral-students.html). 
 
 **I will be on the job market in 2024-2025**. 
 
