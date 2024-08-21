@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-# Job Market Paper
+## Job Market Paper
 
 {% include base_path %}
 
@@ -13,7 +13,7 @@ author_profile: true
 {% include archive-single.html %}
 {% endfor %}
 
-# Working Papers
+## Working Papers
 
 {% include base_path %}
 
