@@ -2,13 +2,15 @@
 title: "Manager Allocation and Firm Dynamics"
 collection: research
 #permalink: /research/Toledo-JMP
-date: 2024-8-2
+date: 
 authors:
-  - firstname: "Gabriel"
-    lastname: "Toledo"
-    url: "https://gstoledo.github.io/"
+  - firstname: 
+    lastname: 
+    url: 
 keywords: 
-venue: "Coming Soon!"
+venue: Coming Soon!
+paperurl: 
+slidesurl: 
 
 ---
 
