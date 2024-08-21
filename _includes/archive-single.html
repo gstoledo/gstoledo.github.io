@@ -51,7 +51,7 @@
     {% endif %}
   {% endfor %}
 {% endif %}
-    <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}
+    <i>{{ post.venue }}</i>, {{ post.date | date: "%Y" }}
     {% if post.paperurl %}
       <a href="{{ post.paperurl }}" style="color: $primary-color; text-decoration: underline; font-style: italic; margin-right: 1px; font-size: 0.9em;">[paper]</a>
     {% endif %}
