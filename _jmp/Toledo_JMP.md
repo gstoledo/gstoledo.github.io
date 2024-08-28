@@ -7,6 +7,7 @@ date: 2024-9-2
 venue: "Coming Soon!"
 
 ---
-**Abstract** This paper studies how the allocative choices of managerial talent between and within a firm affect firm composition decisions, its dynamics and ultimately the economy-wide distribution of firm productivity. I build a firm dynamics model with frictional between-firm allocation and costly within-firm promotion of managers and derive the equilibrium implications of these forces to firm composition and aggregate productivity distribution. Using German employer-employee level data, I document and disentangle the impact of these forces on the flows of granular-level manager positions. I confront theory and data to quantify these forces and their implications for firm dynamics and aggregate productivity.
+**Abstract** This paper studies how the allocation of managerial talent both between and within firms affects firm composition, dynamics, and the broader distribution of productivity across the economy. I build a firm dynamics model with frictional between-firm allocation and costly within-firm promotion of managers and derive the equilibrium implications of these forces to firm composition and aggregate productivity distribution. Using granular German employer-employee data, I analyze and quantify the impact of these channels on managerial position flows. Theoretical insights are confronted with empirical evidence to assess their implications for firm dynamics and overall productivity.
+
 
 
