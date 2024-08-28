@@ -14,7 +14,7 @@ Courses that I served as a Teaching Assistant since I joined NYU.
 ## ECON-UB 2 Microeconomics with Calculus (Stern)
 Prof. Simon Bowmaker 
 
-Summer 2023,2024
+Summer 2023, 2024
 
 ## ECON-UA 10 Intermediate Microeconomics
 Prof. Basil Williams
