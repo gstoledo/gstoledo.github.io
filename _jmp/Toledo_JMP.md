@@ -1,5 +1,5 @@
 ---
-title: "Manager Allocation and Firm Dynamics"
+title: "External and Internal Markets for Managers"
 collection: jmp
 permalink: /jpm/Toledo-JMP
 keywords: 
