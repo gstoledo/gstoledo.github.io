@@ -27,7 +27,7 @@ comments:
   disqus:
     shortname            :
   discourse:
-    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
+    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-j``script/31963 , e.g.: meta.discourse.org
   facebook:
     appid                :
     num_posts            : # 5 (default)
@@ -83,7 +83,7 @@ analytics:
 # Site Author
 author:
   name             : "Gabriel Toledo"
-  avatar           : "profile4.jpg"
+  avatar           : "profile3.jpg"
   bio              : "Economics Ph.D Student"
   location         : "New York, NY"
   employer         : "New York University"
