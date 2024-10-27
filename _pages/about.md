@@ -10,7 +10,7 @@ redirect_from:
 
 I am a PhD. candidate in Economics at [New York University](https://as.nyu.edu/econ.html) and **I will be on the job market in 2024-2025**. 
 
-I'm conducting research on Macroeconomics at the intersection of Labor Search and Firm Dynamics.
+I'm conducting research in Macroeconomics with particular interests in Labor Search and Firm Organization.
 
 My CV can be found [here](https://gstoledo.github.io/docs/Cv_GT.pdf)
 
