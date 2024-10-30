@@ -4,7 +4,8 @@ collection: jmp
 permalink: /jpm/Toledo-JMP
 keywords: 
 date: 2024-9-2
-venue: "Coming Soon!"
+venue: "Abstract (draft coming soon)"
+paperurl: 'https://gstoledo.github.io/docs/Toledo_JMP.pdf'
 
 ---
 <div style="text-align: justify;">
