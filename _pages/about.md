@@ -12,7 +12,7 @@ I am a PhD. candidate in Economics at [New York University](https://as.nyu.edu/e
 
 I'm conducting research in Macroeconomics with particular interests in Labor Search and Firm Organization.
 
-My CV can be found [here](https://gstoledo.github.io/docs/Cv_GT.pdf)
+My CV can be found [here](https://gstoledo.github.io/docs/Toledo_CV.pdf)
 
 
 ## Job Market Paper
