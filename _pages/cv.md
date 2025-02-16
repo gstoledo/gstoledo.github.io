@@ -9,5 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-**Download CV [here](https://gstoledo.github.io/docs/Cv_Toledo.pdf)**
+**Download CV [here](https://gstoledo.github.io/docs/Cv_GT.pdf)**
 
