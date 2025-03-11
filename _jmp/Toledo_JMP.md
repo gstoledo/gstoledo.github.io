@@ -4,10 +4,13 @@ collection: jmp
 permalink: /jpm/Toledo-JMP
 keywords: 
 date: 2024-9-2
-venue: "Coming Soon!"
+venue: "Job Market Paper"
+paperurl: 'https://gstoledo.github.io/docs/Toledo_JMP.pdf'
+slidesurl: 'https://gstoledo.github.io/docs/GT_JMP_Slides_handout.pdf'
 
 ---
-**Abstract** This paper studies how the allocation of managerial talent both between and within firms affects firm composition, dynamics, and the broader distribution of productivity across the economy. I build a firm dynamics model with frictional between-firm allocation and costly within-firm promotion of managers and derive the equilibrium implications of these forces to firm composition and aggregate productivity distribution. Using granular German employer-employee data, I analyze and quantify the impact of these channels on managerial position flows. Theoretical insights are confronted with empirical evidence to assess their implications for firm dynamics and overall productivity.
-
+<div style="text-align: justify;">
+<strong>Abstract:</strong> This paper studies the labor market for managers by examining both between and within firm reallocation channels. I document that around 40%  of the inflows into managerial positions come from internal promotions, a flow comparable in size to the job-to-job transitions into the same roles. I develop a labor search model with internal reallocation and on-the-job learning. External flows depend on how firms are currently internally organized. Internal flows depend on the extent of skill accumulation of workers under managers and on external hiring and separation events. Using administrative data from Germany, I document that managers receive a substantial wage premium and play a key role in the skill development of workers within the establishment. The model matches observed external and internal flows into managerial positions and provides insights into how these channels operate across the talent distribution. Lastly, I evaluate policy implications of targeted Non-Compete Agreements, finding that restrictions on managers lead to fast-tracked promotions and reduced output, whereas non-competes on workers enhance skill accumulation and increase productivity.
+</div>
 
 
