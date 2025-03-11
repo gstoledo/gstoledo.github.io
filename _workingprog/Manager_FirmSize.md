@@ -8,7 +8,7 @@ authors:
     lastname: "Toledo"
     url: "https://gstoledo.github.io/"
 keywords: ""
-venue: "Working Paper"
+venue: "Working in Progress"
 ---
 
 
