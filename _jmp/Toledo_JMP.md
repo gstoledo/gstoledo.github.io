@@ -3,7 +3,7 @@ title: "External and Internal Markets for Managers"
 collection: jmp
 permalink: /jpm/Toledo-JMP
 keywords: 
-date: 2024-9-2
+date: 2024-3-11
 venue: "Job Market Paper"
 paperurl: 'https://gstoledo.github.io/docs/Toledo_JMP.pdf'
 slidesurl: 'https://gstoledo.github.io/docs/GT_JMP_Slides_handout.pdf'
