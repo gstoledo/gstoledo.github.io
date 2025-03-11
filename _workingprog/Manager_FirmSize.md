@@ -2,12 +2,8 @@
 title: "Manager Allocation and Firm Size"
 collection: workingprog
 permalink: /workingprog/Manager_FirmSize
-date: 2024-4-2
-authors:
-  - firstname: "Gabriel"
-    lastname: "Toledo"
-    url: "https://gstoledo.github.io/"
-keywords: ""
+date: 2025-5-11
+keywords: 
 venue: "Working in Progress"
 slidesurl: 'https://gstoledo.github.io/docs/Manager_FirmSize.pdf'
 ---
