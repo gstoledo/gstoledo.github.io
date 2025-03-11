@@ -22,7 +22,7 @@ author_profile: true
 {% endfor %}
 
 
-## Working is Progress
+## Work in Progress
 
 {% include base_path %}
 
