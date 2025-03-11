@@ -195,6 +195,9 @@ collections:
   jmp:
     output: true
     permalink: /:collection/:path/
+  workingprog:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -243,7 +246,16 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comments: true     
+      comments: true
+  # _workingprog
+    - scope:
+        path: ""
+        type: workingprog
+      values:
+        layout: single
+        author_profile: true
+        share: true
+        comments: true     
   # _portfolio
   - scope:
       path: ""
