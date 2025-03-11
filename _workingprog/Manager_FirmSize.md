@@ -4,7 +4,7 @@ collection: workingprog
 permalink: /workingprog/Manager_FirmSize
 date: 2025-5-11
 keywords: 
-venue: "Working in Progress"
+venue: "Working Paper"
 slidesurl: 'https://gstoledo.github.io/docs/Manager_FirmSize.pdf'
 ---
 <div style="text-align: justify;">
