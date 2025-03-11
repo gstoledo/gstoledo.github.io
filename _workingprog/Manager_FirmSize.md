@@ -9,8 +9,6 @@ authors:
     url: "https://gstoledo.github.io/"
 keywords: ""
 venue: "Working Paper"
-paperurl: ''
-slidesurl: ''
 ---
 
 
