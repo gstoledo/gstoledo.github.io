@@ -15,8 +15,8 @@ venue: "Working Paper"
 paperurl: 'https://gstoledo.github.io/docs/MonteToledo.pdf'
 ---
 
-
-**Abstract** How should information be transmitted to the next generation in the aftermath of a
+<div style="text-align: justify;">
+<strong>Abstract:</strong> How should information be transmitted to the next generation in the aftermath of a
 conflict? We propose a dynamic model where two groups engage in an infinite sequence
 of conflict games with evolving costs, observed only when there are conflicts. Without
 communication, conflict persists endlessly. Optimal communication by informed leaders
@@ -25,3 +25,4 @@ be versus how long it will last. This balance depends crucially on the baseline 
 stability. In highly unstable environments, optimal communication mimics static
 Bayesian persuasion games. Conversely, in stable environments, optimal communication
 implies only slight distortions in conveying history.
+</div>
