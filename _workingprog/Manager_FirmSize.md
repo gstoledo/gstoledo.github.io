@@ -2,7 +2,7 @@
 title: "Manager Allocation and Firm Size"
 collection: workingprog
 permalink: /workingprog/Manager_FirmSize
-date: 2025-5-11
+date: 2024-11-11
 keywords: 
 venue: "Working Paper"
 slidesurl: 'https://gstoledo.github.io/docs/Manager_FirmSize.pdf'
