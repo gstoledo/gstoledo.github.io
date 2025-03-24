@@ -1,6 +1,5 @@
 ---
-title: "Opaqueness and Liquidity in Over-the-Counter
-Markets"
+title: "Opaqueness and Liquidity in Over-the-Counter Markets"
 collection: research
 #permalink: /research/Opaquenes-Liquidit-OTC
 date: 2024-4-2
