@@ -2,7 +2,7 @@
 title: "Firm Structure and Internal Market Power"
 collection: research
 #permalink: /research/Opaquenes-Liquidit-OTC
-date: 2024-12-31
+date: 2025-1-1
 authors:
   - firstname: "Gabriel"
     lastname: "Toledo"
