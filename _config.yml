@@ -85,8 +85,8 @@ author:
   name             : "Gabriel Toledo"
   avatar           : "profile8.jpg"
   bio              : "Visiting Assistant Professor of Economics"
-  location         : "Purdue University, Daniels School of Business"
-  employer         : "Daniels School of Business"
+  location         : 
+  employer         : "Purdue University"
   pubmed           : 
   googlescholar    : 
   email            : "gstoledo@purdue.edu"
