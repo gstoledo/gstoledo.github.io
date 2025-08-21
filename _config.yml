@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Gabriel Toledo"
-logo                     : ""
+logo                     : 
 foot_logo                : "PU-H-Full-RGB.png"
 title_separator          : "-"
 name                     : &name "Home"
@@ -85,8 +85,8 @@ author:
   name             : "Gabriel Toledo"
   avatar           : "profile8.jpg"
   bio              : "Visiting Assistant Professor of Economics"
-  location         : ""
-  employer         : "Daniels School of Business at Purdue University"
+  location         : "Purdue University, Daniels School of Business"
+  employer         : "Daniels School of Business"
   pubmed           : 
   googlescholar    : 
   email            : "gstoledo@purdue.edu"
