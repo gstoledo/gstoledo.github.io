@@ -8,11 +8,11 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Gabriel Toledo"
-logo                     : "OnlyP.png"
+logo                     : ""
 foot_logo                : "MDSB_H-Full-RGB.png"
 title_separator          : "-"
 name                     : &name "Home"
-description              : &description "Economics Ph.D Student at New York University"
+description              : &description "Visiting Assistant Professor of Economics at Purdue University"
 url                      : https://gstoledo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gstoledo/gstoledo.github.io"
@@ -84,12 +84,12 @@ analytics:
 author:
   name             : "Gabriel Toledo"
   avatar           : "profile8.jpg"
-  bio              : "Economics Ph.D Student"
-  location         : "New York, NY"
-  employer         : "New York University"
+  bio              : "Visiting Assistant Professor of Economics"
+  location         : ""
+  employer         : "Daniels School of Business at Purdue University"
   pubmed           : 
   googlescholar    : 
-  email            : "gabriel.toledo@nyu.edu"
+  email            : "gstoledo@purdue.edu"
   researchgate     :  
   uri              :
   bitbucket        :
