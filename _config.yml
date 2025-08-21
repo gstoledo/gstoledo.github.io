@@ -8,8 +8,8 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Gabriel Toledo"
-logo                     : "PU-V-Full-RGB.png"
-foot_logo                : "PU-H-Full-RGB.png"
+logo                     : "OnlyP.png"
+foot_logo                : "MDSB_H-Full-RGB.png"
 title_separator          : "-"
 name                     : &name "Home"
 description              : &description "Economics Ph.D Student at New York University"
