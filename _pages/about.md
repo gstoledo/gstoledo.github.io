@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD. candidate in Economics at [New York University](https://as.nyu.edu/econ.html) and **I will be on the job market in 2024-2025**. 
+I am a Visiting Assistant Professor of Economics at the [Daniels School of Business at the Purdue University](https://business.purdue.edu/undergraduate/academics/economics.php). I recently completed my PhD in Economics at [New York University](https://as.nyu.edu/econ.html). **I will be on the job market in 2025-2026**. 
 
 I'm conducting research in Macroeconomics with particular interests in Labor and Firm Organization.
 
