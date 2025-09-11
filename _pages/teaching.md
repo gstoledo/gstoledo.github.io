@@ -1,33 +1,43 @@
 ---
 layout: archive
-title: "Teaching Assistance"
+title: "Teaching Experience"
 permalink: /teaching/
 venue: "New York University"
 date: 2021-01-01
 location: "New York, NY"
 ---
 
-Courses that I served as a Teaching Assistant since I joined NYU.
 
-# Undergraduate Courses
 
-## ECON-UB 2 Microeconomics with Calculus (Stern)
+## New York University - Teaching Assistant
+
+### Firms and Markets (Stern, MBA)
 Prof. Simon Bowmaker 
 
 Summer 2023, 2024
 
-## ECON-UA 10 Intermediate Microeconomics
+### International Economics
+Prof. Andrew Paizis
+
+Spring 2025
+
+### Microeconomics with Calculus (Stern)
+Prof. Simon Bowmaker 
+
+Summer 2023, 2024
+
+### Intermediate Microeconomics
 Prof. Basil Williams
 Prof. Viplav Saini
 
 Spring 2022, Fall 2022, Spring 2023, Fall 2023, Spring 2024
 
-## ECON-UA 316 Industrial Organization
+### Industrial Organization
 Prof. Viplav Saini
 
 Spring 2022
 
-## ECON-UA 11 Microeconomic Analysis
+### Microeconomic Analysis
 Prof. Ennio Stachetti
 
 Fall 2021
