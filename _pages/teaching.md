@@ -10,6 +10,12 @@ location: "New York, NY"
 
 ## Purdue University, Daniels School of Business
 
+### Principles of Macroeconomics
+Spring 2025
+
+### Intermediate Macroeconomics
+Spring 2025
+
 ### Macroeconomic Theory (Grad PhD Level)
 Fall 2025
 
