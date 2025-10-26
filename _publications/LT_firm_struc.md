@@ -1,7 +1,7 @@
 ---
 title: "Firm Structure and Occupational Sorting"
 collection: research
-#permalink: /research/Opaquenes-Liquidit-OTC
+permalink: /research/LT_firm_struc
 date: 2025-10-25
 authors:
   - firstname: "Gabriel"
