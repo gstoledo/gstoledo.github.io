@@ -10,7 +10,7 @@ authors:
   - firstname: "Fernando"
     lastname: "Lopes"
     url: "https://sites.google.com/view/fernandolopes"
-venue: 'Working Paper <span style="color:#940034;font-weight:700;">NEW</span>'
+venue: 'Working Paper <span style="color:#940034;font-weight:700;">NEW!!</span>'
 slidesurl: 'https://gstoledo.github.io/docs/LT_slides.pdf'
 ---
 
