@@ -6,7 +6,7 @@ keywords:
 date: 2025-10-25
 venue: "Job Market Paper"
 paperurl: 'https://gstoledo.github.io/docs/Toledo_JMP.pdf'
-slidesurl: 'https://gstoledo.github.io/docs/GT_JMP_Slides_handout.pdf'
+slidesurl: 'https://gstoledo.github.io/docs/Toledo_mmm_fall2025.pdf'
 
 ---
 <div style="text-align: justify;">
