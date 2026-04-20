@@ -11,10 +11,10 @@ location: "New York, NY"
 ## Purdue University, Daniels School of Business -- Visiting Assistant Professor
 
 ### Principles of Macroeconomics
-Spring 2025
+Spring 2026
 
 ### Intermediate Macroeconomics
-Spring 2025
+Spring 2026
 
 ### Macroeconomic Theory (Grad PhD Level)
 Fall 2025
