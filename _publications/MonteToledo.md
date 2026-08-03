@@ -25,3 +25,4 @@ its duration. The optimal policy depends on the persistence of the environment, 
 less informative communication preferred in more unstable settings. Our framework
 provides insights into post-conﬂict communication, with implications for transitional
 justice and peace agreements.
+</div>
