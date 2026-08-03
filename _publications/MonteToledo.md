@@ -1,5 +1,5 @@
 ---
-title: "Shaping the Truth: History Distortion Post-Conflict"
+title: "Shaping Beliefs: History Communication After Conﬂict"
 collection: research
 #permalink: /research/Shaping the Truth: History Distortion Post-Conflict
 date: 2026-04-01
