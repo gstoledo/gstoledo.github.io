@@ -53,6 +53,11 @@
   }
 }
 
+.foot__logo {
+  position: relative;
+  top: -6px;
+}
+
 .page__footer-copyright {
   font-family: $global-font-family;
   font-size: $type-size-7;
