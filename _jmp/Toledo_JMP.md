@@ -2,7 +2,8 @@
 title: "External and Internal Markets for Managers"
 collection: jmp
 permalink: /jpm/Toledo-JMP
-keywords: 
+keywords: ["Internal Labor Markets", "Managerial Talent", "Labor Reallocation", "On-the-Job Search", "Human Capital Accumulation", "Promotions", "Non-Compete Agreements"]
+jel: ["J62", "J63", "J24", "M51", "L23"]
 date: 2025-10-25
 venue: "Job Market Paper"
 paperurl: 'https://gstoledo.github.io/docs/Toledo_JMP.pdf'
