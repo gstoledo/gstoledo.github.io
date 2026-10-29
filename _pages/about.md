@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Lecturer in Discipline in the [Economics Department at Columbia University](https://econ.columbia.edu). I earned my PhD in Economics at [New York University](https://as.nyu.edu/econ.html) in 2025.
+I am an Assistant Professor of Instruction in the [Economics Department at Columbia University](https://econ.columbia.edu). I earned my PhD in Economics at [New York University](https://as.nyu.edu/econ.html) in 2025.
 
 I am conducting research in Macroeconomics with particular interests in Labor and Firm Organization.
 
